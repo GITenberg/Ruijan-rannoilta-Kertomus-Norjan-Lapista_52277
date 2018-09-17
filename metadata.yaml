@@ -1,0 +1,34 @@
+_repo: Ruijan-rannoilta-Kertomus-Norjan-Lapista_52277
+_version: 0.0.1
+alternative_title: I dyreskind. Finnish
+contributor:
+  translator:
+    agent_name: Schantz, Aksel von
+    alias: Von Schantz, Aksel
+    gutenberg_agent_id: '45181'
+    url: http://www.gutenberg.org/2009/agents/45181
+creator:
+  author:
+    agent_name: Aikio, Matti
+    birthdate: 1872
+    deathdate: 1929
+    gutenberg_agent_id: '46491'
+    url: http://www.gutenberg.org/2009/agents/46491
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52277'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- History -- Fiction'
+- !lcsh 'Sami (European people) -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PT'
+- !lcsh 'Reindeer herders -- Fiction'
+- GITenberg
+title: 'Ruijan rannoilta: Kertomus Norjan Lapista'
+url: http://www.gutenberg.org/ebooks/52277
